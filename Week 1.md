@@ -9,7 +9,9 @@
    -	BSD (Berkeley Software Distribution hay Berkeley Standard Distribution) là một hệ điều hành mã nguồn mở được phát triển dựa trên Unix). Ngày nay nó đã dừng hoạt động và được kế thừa lại như FreeBSD hay OpenBSD
    -	macOS được phát triển từ đầu theo BSD tuy nhiên đã thay đổi phần lớn theo thời gian. Ngày nay nó chỉ được coi là *nix
 3. Alpine vs Ubuntu?
-4. VNC
+   - Alpine và Ubuntu đều là hệ điều hành trên nhân Linux, tuy nhiên Alpine không sử dụng bộ công cụ lõi của GNU
+4. VNC (Virtual Network Computing)
+   - Là hệ thống chia sẻ giao diện desktop giúp điều khiển máy tính khác từ xa 
 
 
 # Thực hành:
