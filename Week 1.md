@@ -27,4 +27,4 @@
 ## Bước 4: Chạy vncserver (do chưa đặt biến môi trường USER nên phải đặt đầu lệnh)
     USER=root vncserver
 ## Bước 5: Mở vncviewer, truy cập vào IP container đã biết ở trên với cổng 5901
-
+![image](https://github.com/Silwee/KTPM-II-23-24/assets/100249792/04928aeb-780e-4df3-91f3-03cd3b282a82)
